@@ -155,6 +155,7 @@ article.texto .funcao{
 article.texto img.perfil{
     width: 225px;
     margin-top: 3%;
+    border-radius: 50%;
 }
 
 article.texto img.comite{
